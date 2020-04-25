@@ -1,0 +1,1 @@
+function changeContentTab(a){$(a).click(function(){var a=$(this).data("content");$(this).siblings().removeClass("active"),$(this).addClass("active"),$(a).siblings().removeClass("active"),$(a).addClass("active")})}$(document).ready(function(){changeContentTab(".tab-pro a")});

@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=$(".slide-top");e.owlCarousel({items:1,itemsDesktop:[1089,2],itemsDesktopSmall:[900,2],itemsTablet:[700,2],itemsMobile:[414,1],navigation:!0,autoPlay:!0,loop:!0,paginationSpeed:1e3})});
